@@ -1,0 +1,19 @@
+# 비공개 문서, 비밀값
+docs/private/
+.env
+.env.*
+CLAUDE.local.md
+.claude/settings.local.json
+
+# 빌드 결과물
+build/
+out/
+.gradle/
+node_modules/
+dist/
+
+# IDE, OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
